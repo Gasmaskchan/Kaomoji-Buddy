@@ -1,4 +1,4 @@
-Kaomoji Buddy!!!!!!
+٩(ˊᗜˋ*)و ♡ Kaomoji Buddy!!!!!!
 adds cute kaomojis to your messages automatically (discord mainly)
 
 how to use
@@ -33,3 +33,4 @@ warning
 
 this hooks your keyboard
 don’t use if you’re paranoid
+٩(ˊᗜˋ*)و ♡
